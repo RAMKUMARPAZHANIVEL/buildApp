@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfigma_react_boilerplate=self.webpackChunkfigma_react_boilerplate||[]).push([[9635],{9635:function(e,t,n){n.r(t);n(2791);var r=n(9434),a=n(9593),l=n(184);t.default=function(){var e=(0,r.v9)((function(e){var t;return null===(t=e.frontend.frontend_details)||void 0===t?void 0:t.modelType}));return(0,l.jsx)(l.Fragment,{children:(0,l.jsx)(a.Z,{path:"/frontend-select-techstack",selected_model:e})})}}}]);
+//# sourceMappingURL=9635.cdeb1bd3.chunk.js.map
